@@ -3,7 +3,7 @@ body {
 }
 body::after {
     content: "";
-    background-image: url("./bg.jpg");
+    background-image: url("bg.jpg");
     background-position: top -450px center;
     background-repeat: no-repeat;
     opacity: 0.5;
